@@ -79,7 +79,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **AI & ML Engineer**, **Data
 ---
 
 ## 🎉 **Fun Facts**  
-- Chess enthusiast ♟️ and avid puzzle solver 🧩.  
+- Free Fire Gamer🧩.  
 - Big fan of sci-fi movies and books 📚.  
 - Always up for a friendly coding challenge!  
 
