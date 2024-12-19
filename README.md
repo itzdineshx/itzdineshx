@@ -81,7 +81,7 @@ Developed **FOCXY**, a Chrome extension to block distracting websites.
 |------------------|---------------------------------------------|  
 | **LinkedIn**     | [Dinesh’s LinkedIn](https://linkedin.com/in/itzdineshx) |  
 | **Kaggle**       | [Dinesh on Kaggle](https://kaggle.com/dinesh873) |  
-| **Twitter**      | [@itzdineshx](https://twitter.com/itzdineshx)  |  
+| **YT**      | [@itzdineshx]([https://twitter.com/itzdineshx](https://www.youtube.com/@DINESH-p1b3r))  |  
 | **Email**        | [personalaccdinesh@gmail.com](mailto:personalaccdinesh@gmail.com) |  
 
 ---
