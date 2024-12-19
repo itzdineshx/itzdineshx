@@ -1,5 +1,5 @@
 # 🌟 Welcome to Dinesh's World of Innovation! 🌟  
-![Banner](https://repository-images.githubusercontent.com/379526426/58e8ed00-4afc-11eb-828b-d2ab9b7b3a8d)
+![Banner]([https://repository-images.githubusercontent.com/379526426/58e8ed00-4afc-11eb-828b-d2ab9b7b3a8d](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZjMXZ5Z3BpMm9hMDIwZXBqaHpydTYzMHk5Y2I5OWhlZncwcDBpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9C1nyePnovqlpEYFMD/giphy.gif))
 
 Welcome to my GitHub profile! I’m **Dinesh**, an **AI Enthusiast**, **Machine Learning Explorer**, and **Data Science Innovator**. My passion is to create meaningful impact through technology, solve complex problems, and empower the future of AI and ML. 🚀  
 
