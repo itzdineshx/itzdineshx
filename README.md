@@ -1,96 +1,96 @@
-# Hi there, I'm Dinesh! 👋  
-![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZjMXZ5Z3BpMm9hMDIwZXBqaHpydTYzMHk5Y2I5OWhlZncwcDBpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9C1nyePnovqlpEYFMD/giphy.gif)  
+# 🌟 Welcome to Dinesh's World of Innovation! 🌟  
+![Banner](https://repository-images.githubusercontent.com/379526426/58e8ed00-4afc-11eb-828b-d2ab9b7b3a8d)
 
-Welcome to my GitHub profile! 🚀 I'm a passionate **AI & ML Engineer**, **Data Science Enthusiast**, and **Active Intern Seeker**. I love exploring new technologies, solving real-world problems, and building innovative solutions that create impact.  
-
----
-
-## 🌟 **About Me**  
-- 🎓 **B.Tech in AI & Data Science** from **DMI College of Engineering** (GPA: 8.5).  
-- 🔭 **Aspiring AI/ML Engineer** with hands-on experience in **Machine Learning**, **Deep Learning**, and **Data Analysis**.  
-- 🌱 Currently learning **Cloud Computing**, **Kubernetes**, and **Advanced AI Techniques**.  
-- 💡 Open to collaboration on impactful projects and open-source contributions.  
+Welcome to my GitHub profile! I’m **Dinesh**, an **AI Enthusiast**, **Machine Learning Explorer**, and **Data Science Innovator**. My passion is to create meaningful impact through technology, solve complex problems, and empower the future of AI and ML. 🚀  
 
 ---
 
-## 🔧 **Technologies & Tools**  
+## 💡 **About Me**  
 
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)  
-
-### **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=black)  
-
-### **Tools & Platforms**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+- 🎓 **B.Tech in AI & Data Science**, DMI College of Engineering (**GPA: 8.5**)  
+- 🌱 Currently mastering **Cloud Computing**, **Kubernetes**, and **Advanced AI Techniques**  
+- 💻 Open to collaborations, internships, and open-source contributions  
+- 🔍 Exploring solutions in **AI-driven healthcare, education, and gaming**  
+- 🎮 Gamer and Sci-fi fanatic 🛸  
 
 ---
 
-## 📂 **Highlighted Projects**  
+## 🌌 **Core Expertise**  
+Here’s a glance at my skills and tools:  
 
-### **1. MNIST Handwritten Digit Recognition System Web App**  
-- Built a deep learning model with **98% accuracy** for handwritten digit recognition.  
-- Designed a full-stack web application for real-time digit recognition with drawing/upload features.  
-- **Tech Used:** Python, TensorFlow, Flask, HTML/CSS, JavaScript  
-- [🔗 View Repository](https://github.com/itzdineshx/MNIST_Digit_Recognition)  
-
-### **2. M-Pox Disease Analysis and Forecasting**  
-- Developed predictive models for forecasting outbreak trends using time series analysis.  
-- Achieved high accuracy through advanced statistical techniques.  
-- **Tech Used:** Python, StatsModels, Pandas, Matplotlib, Seaborn  
-- [🔗 View Repository](https://github.com/itzdineshx/MPOX_Analysis_Forecasting)  
-
-### **3. FOCXY - Block Websites Chrome Extension**  
-- Created a productivity-enhancing Chrome extension to block specific websites during work hours.  
-- Provided customization settings and productivity tracking for users.  
-- **Tech Used:** JavaScript, HTML/CSS, Chrome Extension API  
+| **Domain**              | **Technologies & Tools**                                                                                                            |  
+|--------------------------|------------------------------------------------------------------------------------------------------------------------------------|  
+| **Programming**          | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![C](https://img.shields.io/badge/-C-lightgrey?logo=c) ![SQL](https://img.shields.io/badge/-SQL-blue)  |  
+| **Machine Learning**     | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-green?logo=scikit-learn) ![Pandas](https://img.shields.io/badge/-Pandas-darkblue?logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-lightblue?logo=numpy)  |  
+| **Data Visualization**   | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue) ![Seaborn](https://img.shields.io/badge/-Seaborn-green) ![Plotly](https://img.shields.io/badge/-Plotly-purple)  |  
+| **Development**          | ![Flask](https://img.shields.io/badge/-Flask-lightgrey?logo=flask) ![React](https://img.shields.io/badge/-React-blue?logo=react)  |  
+| **DevOps & Cloud**       | ![Docker](https://img.shields.io/badge/-Docker-lightblue?logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes)  |  
 
 ---
 
-## 📊 **GitHub Stats & Visuals**  
+## 📂 **My Portfolio Projects**  
+Here’s a selection of the most impactful projects I’ve worked on:  
 
-### **Stats Overview**  
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzdineshx&show_icons=true&theme=radical)  
+### 1. **🖋️ Handwritten Digit Classification**  
+A sleek web app for real-time digit recognition using a custom CNN architecture.  
+- **Model Accuracy:** 98%  
+- **Technologies:** TensorFlow, Flask, Streamlit, Python  
+- **Features:** Live drawing input, dynamic visualizations.  
+- **[🔗 Explore Project](https://github.com/itzdineshx/MNIST_Digit_Recognition)**  
 
-### **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdineshx&layout=compact&theme=radical)  
+### 2. **🌍 Monkeypox Outbreak Analysis**  
+A statistical and AI-driven analysis of the Monkeypox outbreak with visualizations and predictions.  
+- **Focus:** Forecasting outbreaks, anomaly detection.  
+- **Technologies:** Python, Pandas, Matplotlib, ARIMA.  
+- **[🔗 View Repository](https://github.com/itzdineshx/MPOX_Analysis_Forecasting)**  
 
-### **Contributions**  
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=itzdineshx&theme=github)  
-
----
-
-## 🏆 **Achievements**  
-- 🥉 **Third Prize** in Code Debugging using Python at **DMICE Symposium (2023)**.  
-- 🎓 Participated in **Kridayanthrik’24 Symposium** at REC.  
-- 🏅 Hackathon on **Smart Education using Gen AI** at GenxRverse (2024).  
-
----
-
-## 📫 **Connect With Me**  
-- **LinkedIn:** [linkedin.com/in/itzdineshx](https://www.linkedin.com/in/itzdineshx/)  
-- **Twitter:** [@itzdineshx](https://twitter.com/itzdineshx)  
-- **Email:** [personalaccdinesh@gmail.com](mailto:personalaccdinesh@gmail.com)  
-- **Kaggle:** [kaggle.com/dinesh873](https://www.kaggle.com/dinesh873)  
+### 3. **🚀 Chrome Productivity Extension**  
+Developed **FOCXY**, a Chrome extension to block distracting websites.  
+- **Features:** Schedule-based blocking, advanced customization.  
+- **Technologies:** JavaScript, HTML, CSS.  
 
 ---
 
-## 🎉 **Fun Facts**  
-- Tech Enthusiast 💻  
-- Free Fire Gamer 🎮 
-- Big fan of sci-fi movies and books 📚.  
-- Always up for a friendly coding challenge!  
+## 📈 **GitHub Stats & Analytics**  
+
+### **🔥 Overall Stats**  
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzdineshx&show_icons=true&theme=radical&count_private=true)  
+
+### **⚡ Activity Graph**  
+![Dinesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itzdineshx&theme=dracula&bg_color=1a1b27&color=69DADB&line=4DBD33&point=FFFFFF&area=true)  
 
 ---
 
-⭐️ **From [itzdineshx](https://github.com/itzdineshx)**
+## 🎯 **Achievements & Certifications**  
+
+### **Hackathons & Competitions**  
+- 🏆 **Top 10 Finalist**, Analytics Ascend 2024 hosted by **Scaler**  
+- 🥉 **Third Prize**, DMICE Symposium Code Debugging Contest  
+- 🚀 Contributor to **Kaggle Playground Series**  
+
+### **Certifications**  
+- 🏅 Advanced AI Techniques (Coursera)  
+- 🏅 Google Cloud Practitioner (Qwiklabs)  
+- 🏅 Data Science Bootcamp (Scaler Academy)  
+
+---
+
+## 🌎 **Connect with Me**  
+
+| Platform         | Link                                         |  
+|------------------|---------------------------------------------|  
+| **LinkedIn**     | [Dinesh’s LinkedIn](https://linkedin.com/in/itzdineshx) |  
+| **Kaggle**       | [Dinesh on Kaggle](https://kaggle.com/dinesh873) |  
+| **Twitter**      | [@itzdineshx](https://twitter.com/itzdineshx)  |  
+| **Email**        | [personalaccdinesh@gmail.com](mailto:personalaccdinesh@gmail.com) |  
+
+---
+
+## 💻 **Fun Facts**  
+- 🎮 Avid **Free Fire Gamer**  
+- 📚 Addicted to **sci-fi movies & books**  
+- 🌌 Believer in the endless possibilities of **AI and Space Exploration**  
+
+---
+
+⭐️ *From [Dinesh](https://github.com/itzdineshx) — Let’s innovate together!*
