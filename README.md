@@ -57,16 +57,23 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **AI & ML Engineer**, **Data
 
 ---
 
+## 📊 **GitHub Stats & Visuals**  
+
+### **Stats Overview**  
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzdineshx&show_icons=true&theme=radical)  
+
+### **Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdineshx&layout=compact&theme=radical)  
+
+### **Contributions**  
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=itzdineshx&theme=github)  
+
+---
+
 ## 🏆 **Achievements**  
 - 🥉 **Third Prize** in Code Debugging using Python at **DMICE Symposium (2023)**.  
 - 🎓 Participated in **Kridayanthrik’24 Symposium** at REC.  
 - 🏅 Hackathon on **Smart Education using Gen AI** at GenxRverse (2024).  
-
----
-
-## 📈 **GitHub Stats**  
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzdineshx&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdineshx&layout=compact&theme=radical)  
 
 ---
 
