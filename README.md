@@ -1,5 +1,5 @@
 # Hi there, I'm Dinesh! 👋  
-![Welcome Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
+![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZjMXZ5Z3BpMm9hMDIwZXBqaHpydTYzMHk5Y2I5OWhlZncwcDBpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9C1nyePnovqlpEYFMD/giphy.gif)  
 
 Welcome to my GitHub profile! 🚀 I'm a passionate **AI & ML Engineer**, **Data Science Enthusiast**, and **Active Intern Seeker**. I love exploring new technologies, solving real-world problems, and building innovative solutions that create impact.  
 
