@@ -1,7 +1,6 @@
 # 🌟 Welcome to Dinesh's World of Innovation! 🌟  
 
-![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZjMXZ5Z3BpMm9hMDIwZXBqaHpydTYzMHk5Y2I5OWhlZncwcDBpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9C1nyePnovqlpEYFMD/giphy.gif)  
-
+![Welcome Banner](https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif)
 Welcome to my **innovative hub of ideas and creativity**! I’m **Dinesh**, an **AI Enthusiast**, **Machine Learning Explorer**, and **Data Science Innovator** with a passion for blending technology and impact. 🚀  
 
 ---
