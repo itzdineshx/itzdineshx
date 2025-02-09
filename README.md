@@ -35,7 +35,7 @@ A futuristic web app for real-time digit recognition.
 - **Model Accuracy:** 98%  
 - **Tech Stack:** TensorFlow, Flask, Streamlit, Python  
 - **Features:** Dynamic visualizations and live input.  
-- **[🔗 Explore Project](https://github.com/itzdineshx/MNIST_Digit_Recognition)**  
+- **[🔗 Explore Project](https://github.com/itzdineshx/Handwritten-Digit-Recognition-system)**  
 
 ### 2. **🌍 Monkeypox Outbreak Analysis**  
 An AI-driven analysis with statistical predictions and anomaly detection.  
