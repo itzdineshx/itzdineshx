@@ -134,7 +134,7 @@ While GitHub READMEs can't run interactive games directly, I invite you to try o
 
 <div align="center">
 
-[![Play Tic Tac Toe](https://img.shields.io/badge/Play-Tic_Tac_Toe-blue?style=for-the-badge)](https://itzdineshx.github.io/tictactoe)
+[![Play Tic Tac Toe](https://img.shields.io/badge/Play-Tic_Tac_Toe-blue?style=for-the-badge)](https://itzdineshx.github.io/Cs50ai_tic_tac_toe_AI/)
   
 </div>
 
