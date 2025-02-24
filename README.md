@@ -122,7 +122,8 @@ Boost your productivity with **FOCXY** – a distraction blocker featuring sched
 </div>
 
 <div align="center">
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=itzdineshx&column=7)](https://github.com/itzdineshx/github-profile-trophy)
+  <!-- Updated trophy badge code -->
+  <img src="https://github-profile-trophy.vercel.app/?username=itzdineshx&theme=onedark&no-frame=true&row=1" alt="GitHub Trophy" />
 </div>
 
 ---
