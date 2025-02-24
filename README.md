@@ -130,25 +130,17 @@ Boost your productivity with **FOCXY** – a distraction blocker featuring sched
 
 ## 🎮 Interactive Fun Zone
 
-Take a break and play a few fun games directly linked from my profile. These mini-games are built to showcase creativity and a love for interactivity. *(Links below are placeholders – update with your own hosted demos as you build them!)*
+While GitHub READMEs can't run interactive games directly, I invite you to try out my interactive games hosted on GitHub Pages. Click the buttons below to play instantly in a new tab:
 
-- **Snake Game:**  
-  [Play Now](https://github.com/itzdineshx/interactive-snake-game)  
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/itzdineshx/assets/main/snake-game-preview.gif" alt="Snake Game Preview" width="300"/>
-  </div>
+<div align="center">
 
-- **Tic Tac Toe:**  
-  [Challenge Me](https://github.com/itzdineshx/interactive-tictactoe)  
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/itzdineshx/assets/main/tictactoe-preview.gif" alt="Tic Tac Toe Preview" width="300"/>
-  </div>
+[![Play Snake Game](https://img.shields.io/badge/Play-Snake_Game-brightgreen?style=for-the-badge)](https://itzdineshx.github.io/snake-game)  
+[![Play Tic Tac Toe](https://img.shields.io/badge/Play-Tic_Tac_Toe-blue?style=for-the-badge)](https://itzdineshx.github.io/tictactoe)  
+[![Play 2048 Puzzle](https://img.shields.io/badge/Play-2048_Puzzle-orange?style=for-the-badge)](https://itzdineshx.github.io/2048)
+  
+</div>
 
-- **2048 Puzzle:**  
-  [Try It Out](https://github.com/itzdineshx/interactive-2048)  
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/itzdineshx/assets/main/2048-preview.gif" alt="2048 Puzzle Preview" width="300"/>
-  </div>
+*Each game is fully interactive on its respective GitHub Pages site!*
 
 ---
 
