@@ -130,17 +130,15 @@ Boost your productivity with **FOCXY** – a distraction blocker featuring sched
 
 ## 🎮 Interactive Fun Zone
 
-While GitHub READMEs can't run interactive games directly, I invite you to try out my interactive games hosted on GitHub Pages. Click the buttons below to play instantly in a new tab:
+While GitHub READMEs can't run interactive games directly, I invite you to try out my interactive game hosted on GitHub Pages. Click the button below to play Tic Tac Toe instantly in a new tab:
 
 <div align="center">
 
-[![Play Snake Game](https://img.shields.io/badge/Play-Snake_Game-brightgreen?style=for-the-badge)](https://itzdineshx.github.io/snake-game)  
-[![Play Tic Tac Toe](https://img.shields.io/badge/Play-Tic_Tac_Toe-blue?style=for-the-badge)](https://itzdineshx.github.io/tictactoe)  
-[![Play 2048 Puzzle](https://img.shields.io/badge/Play-2048_Puzzle-orange?style=for-the-badge)](https://itzdineshx.github.io/2048)
+[![Play Tic Tac Toe](https://img.shields.io/badge/Play-Tic_Tac_Toe-blue?style=for-the-badge)](https://itzdineshx.github.io/tictactoe)
   
 </div>
 
-*Each game is fully interactive on its respective GitHub Pages site!*
+*Experience a classic game of Tic Tac Toe—fully interactive on its dedicated GitHub Pages site!*
 
 ---
 
