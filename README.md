@@ -5,14 +5,14 @@
 </div>
 
 Hello, I'm **Dinesh** – an AI Enthusiast, Machine Learning Explorer, and Data Science Innovator dedicated to blending technology with impact. 🚀  
-Welcome to my creative hub of ideas and projects!
+Welcome to my creative hub of ideas, projects, and interactive fun!
 
 ---
 
 ## 💡 About Me
 
 - **Education:** B.Tech in AI & Data Science from DMI College of Engineering | **GPA:** 8.5  
-- **Currently Learning:** Cloud Computing, Kubernetes, Advanced AI Techniques  
+- **Learning:** Cloud Computing, Kubernetes, Advanced AI Techniques  
 - **Collaborations:** Open to impactful projects, internships, and open-source contributions  
 - **Focus Areas:** AI in Healthcare, Education, Gaming, and more  
 - **Hobbies:** Gaming, sci-fi explorations, and creative coding
@@ -122,9 +122,33 @@ Boost your productivity with **FOCXY** – a distraction blocker featuring sched
 </div>
 
 <div align="center">
-  <!-- Updated trophy badge code -->
+  <!-- GitHub Trophy Badge -->
   <img src="https://github-profile-trophy.vercel.app/?username=itzdineshx&theme=onedark&no-frame=true&row=1" alt="GitHub Trophy" />
 </div>
+
+---
+
+## 🎮 Interactive Fun Zone
+
+Take a break and play a few fun games directly linked from my profile. These mini-games are built to showcase creativity and a love for interactivity. *(Links below are placeholders – update with your own hosted demos as you build them!)*
+
+- **Snake Game:**  
+  [Play Now](https://github.com/itzdineshx/interactive-snake-game)  
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/itzdineshx/assets/main/snake-game-preview.gif" alt="Snake Game Preview" width="300"/>
+  </div>
+
+- **Tic Tac Toe:**  
+  [Challenge Me](https://github.com/itzdineshx/interactive-tictactoe)  
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/itzdineshx/assets/main/tictactoe-preview.gif" alt="Tic Tac Toe Preview" width="300"/>
+  </div>
+
+- **2048 Puzzle:**  
+  [Try It Out](https://github.com/itzdineshx/interactive-2048)  
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/itzdineshx/assets/main/2048-preview.gif" alt="2048 Puzzle Preview" width="300"/>
+  </div>
 
 ---
 
@@ -178,6 +202,6 @@ Boost your productivity with **FOCXY** – a distraction blocker featuring sched
 ---
 
 ⭐️ **Let’s Innovate Together!**  
-Feel free to reach out for collaborations, projects, or even a chat about tech and innovation.
+Feel free to reach out for collaborations, projects, or even a chat about tech and interactive fun.
 
 <!-- Thanks for stopping by! -->
