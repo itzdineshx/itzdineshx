@@ -12,7 +12,7 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
 ## 💡 About Me
 
 - **Education:** B.Tech in AI & Data Science from DMI College of Engineering | **GPA:** 8.5  
-- **Learning:** Cloud Computing, Kubernetes, Advanced AI Techniques  
+- **Learning:** Data Analysis, Data science, Machine Learning, Deep Learning, Advanced AI Techniques  
 - **Collaborations:** Open to impactful projects, internships, and open-source contributions  
 - **Focus Areas:** AI in Healthcare, Education, Gaming, and more  
 - **Hobbies:** Gaming, sci-fi explorations, and creative coding
