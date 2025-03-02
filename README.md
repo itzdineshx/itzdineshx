@@ -7,7 +7,7 @@
 Hello, I'm **Dinesh** – an AI Enthusiast, Machine Learning Explorer, and Data Science Innovator dedicated to blending technology with impact. 🚀  
 Welcome to my creative hub of ideas, projects, and interactive fun!
 
-<!-- Repeating the cool animation gif -->
+<!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 ## 💡 About Me
@@ -18,10 +18,15 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
 - **🎯 Focus Areas:** AI in Healthcare, Education, Gaming, and more  
 - **🎮 Hobbies:** Gaming, sci-fi explorations, and creative coding
 
-<!-- Repeating the cool animation gif -->
+<!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 ## 🔧 Core Expertise
+
+<p align="center">
+  <i>Note: The icons below represent the technologies and tools I've been exposed to. Some I've mastered at an intermediate level, while others are at a foundational level.
+    I continuously evolve and expand my expertise as a developer.</i>
+</p>
 
 ### I Code In 
 <p align="center">
@@ -44,7 +49,7 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" alt="Hugging Face" /> 
 </p>
 
-<!-- Repeating the cool animation gif -->
+<!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 ### Tools I Use
@@ -61,9 +66,7 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" />
 </p>
 
-<p align="center"><i>Note: These icons represent the technologies and tools I have mastered and continue to learn as I evolve as a developer.</i></p>
-
-<!-- Repeating the cool animation gif -->
+<!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 ## 📊 GitHub Stats & Achievements
@@ -74,19 +77,21 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
       <td width="50%" align="left">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/personalaccdinesh?theme=dark&font=Marcellus&ext=contest)](https://leetcode.com/u/personalaccdinesh/)
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+[![LeetCode Stats](https://leetcard.jacoblin.cool/personalaccdinesh?theme=dark&font=Marcellus&ext=contest&cacheSeconds=86400)](https://leetcode.com/u/personalaccdinesh/)
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
       </td>
       <td width="50%" align="right">
-       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdineshx&layout=compact&theme=radical" alt="Top Languages" />
-       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
       </td>
     </tr>
   </table>
 </div>
 
-  <br>
+<br>
+<div align="center">
   <a href="https://github.com/itzdineshx">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdineshx&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a>
@@ -96,7 +101,7 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
   <img src="https://github-profile-trophy.vercel.app/?username=itzdineshx&theme=onedark&no-frame=true&row=1" alt="GitHub Trophy" />
 </div>
 
-<!-- Repeating the cool animation gif -->
+<!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 ## 🎮 Interactive Fun Zone
@@ -109,7 +114,7 @@ Experience a classic game of Tic Tac Toe with AI! Click below to play instantly 
   </a>
 </div>
 
-<!-- Repeating the cool animation gif -->
+<!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 ## 🌐 Connect with Me
@@ -129,7 +134,7 @@ Experience a classic game of Tic Tac Toe with AI! Click below to play instantly 
   </a>
 </div>
 
-<!-- Repeating the cool animation gif -->
+<!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 ## 📈 Visitor Count
@@ -138,7 +143,7 @@ Experience a classic game of Tic Tac Toe with AI! Click below to play instantly 
   <img src="https://profile-counter.glitch.me/itzdineshx/count.svg" alt="Visitor Count" />
 </div>
 
-<!-- Repeating the cool animation gif -->
+<!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 ## 🎯 Fun Facts & Beyond
@@ -148,7 +153,7 @@ Experience a classic game of Tic Tac Toe with AI! Click below to play instantly 
 - 🌌 Dreaming of AI-powered space exploration  
 - 💬 Passionate about community, collaboration, and continuous learning
 
-<!-- Repeating the cool animation gif -->
+<!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 ⭐️ **Let’s Innovate Together!**  
@@ -156,8 +161,9 @@ Feel free to reach out for collaborations, projects, or a chat about tech and in
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?refresh=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
   </picture>
 </div>
+
