@@ -96,10 +96,14 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdineshx&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a>
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=itzdineshx&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <<div align="center">
+  <!-- GitHub Streak with an orange fire color -->
+  <img src="https://streak-stats.demolab.com?user=itzdineshx&locale=en&mode=daily&theme=dark&fire=FFA500&hide_border=true&border_radius=5&order=3" height="220" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=itzdineshx&theme=onedark&no-frame=true&row=1" alt="GitHub Trophy" />
+  <!-- GitHub Trophy with the 'great-gatsby' theme, animation, and dark background -->
+  <img src="https://github-profile-trophy.vercel.app/?username=itzdineshx&theme=great-gatsby&animate=true&no-frame=true&row=1&bg_color=000000" alt="GitHub Trophy" />
 </div>
+
 
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
