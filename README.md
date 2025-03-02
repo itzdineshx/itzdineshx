@@ -50,17 +50,16 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
 </p>
 
 <!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 ### Tools I Use
 <p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="GitHub" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" alt="PyCharm" />
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Anaconda" />
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter Notebook" /> 
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" /> 
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=QrYhwpUzAcoy&format=png&color=000000" alt="Kaggle" /> 
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="GitHub" /> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker" /> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" />
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" />
