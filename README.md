@@ -97,11 +97,10 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
   </a>
   <br><br>
   <<div align="center">
-  <!-- GitHub Streak with an orange fire color -->
   <img src="https://streak-stats.demolab.com?user=itzdineshx&locale=en&mode=daily&theme=dark&fire=FFA500&hide_border=true&border_radius=5&order=3" height="220" alt="GitHub Streak" />
   <br><br>
-  <!-- GitHub Trophy with the 'great-gatsby' theme, animation, and dark background -->
-  <img src="https://github-profile-trophy.vercel.app/?username=itzdineshx&theme=great-gatsby&animate=true&no-frame=true&row=1&bg_color=000000" alt="GitHub Trophy" />
+  <!-- GitHub Trophy with gruvbox theme -->
+  <img src="https://github-profile-trophy.vercel.app/?username=itzdineshx&theme=gruvbox&no-frame=true&row=1" alt="GitHub Trophy" />
 </div>
 
 
