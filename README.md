@@ -151,10 +151,10 @@ Experience a classic game of Tic Tac Toe with AI! Click below to play instantly 
 
 ## 🎯 Fun Facts & Beyond
 
-- 🎮 Pro Free Fire Gamer  
-- 📚 Sci-fi aficionado – books, movies, and more!  
-- 🌌 Dreaming of AI-powered space exploration  
-- 💬 Passionate about community, collaboration, and continuous learning
+🎮 Pro Free Fire Gamer  
+📚 Sci-fi aficionado – books, movies, and more!  
+🌌 Dreaming of AI-powered space exploration  
+💬 Passionate about community, collaboration, and continuous learning
 
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
