@@ -74,14 +74,14 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="left">
+      <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/personalaccdinesh?theme=dark&font=Marcellus&ext=contest&cacheSeconds=86400)](https://leetcode.com/u/personalaccdinesh/)
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
       </td>
-      <td width="50%" align="right">
+      <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdineshx&layout=compact&theme=radical" alt="Top Languages" />
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
