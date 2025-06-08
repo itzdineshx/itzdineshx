@@ -126,13 +126,7 @@ Experience a classic game of Tic Tac Toe with AI! Click below to play instantly 
 ⭐️ **Let’s Innovate Together!**  
 Feel free to reach out for collaborations, projects, or a chat about tech and interactive fun.
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?refresh=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
-  </picture>
-</div>
+
 
 ## 🌐 Connect with Me
 
@@ -155,4 +149,12 @@ Feel free to reach out for collaborations, projects, or a chat about tech and in
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/itzdineshx/count.svg" alt="Visitor Count" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?refresh=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
+  </picture>
 </div>
