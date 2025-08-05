@@ -148,7 +148,7 @@ Feel free to reach out for collaborations, projects, or a chat about tech and in
 ## 📈 Visitor Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/itzdineshx/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=itzdineshx&color=blue" alt="Profile views" />
 </div>
 
 <div align="center">
