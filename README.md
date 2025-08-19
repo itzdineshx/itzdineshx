@@ -106,9 +106,9 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
-## 🎮 Interactive Fun Zone
-
-Experience a classic game of Tic Tac Toe with AI! Click below to play instantly in a new tab:
+## 🎮 Fancy a Game?
+Experience a classic game of Tic Tac Toe with AI! 
+I bet, You Can't Beat My AI! 
 
 <div align="center">
   <a href="https://itzdineshx.github.io/Cs50ai_tic_tac_toe_AI/" target="_blank">
