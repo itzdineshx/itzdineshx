@@ -5,21 +5,36 @@
 </div>
 
 <br></br>
+
 <div align="center">
-  <a href="https://linkedin.com/in/itzdineshx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/dinesh-x/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:32px;">
+  </a>
+  <a href="https://github.com/itzdineshx" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width:32px;">
   </a>
   <a href="https://kaggle.com/dinesh873" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.icons8.com/?size=36&id=Omk4fWoSmCHm&format=png&color=000000" alt="Kaggle" />
+  </a>
+  <a href="https://leetcode.com/u/personalaccdinesh/" target="_blank">
+    <img src="https://img.icons8.com/?size=36&id=wDGo581Ea5Nf&format=png&color=000000" alt="Kaggle" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/personala2hce/" target="_blank">
+    <img src="https://img.icons8.com/?size=36&id=AbQBhN9v62Ob&format=png&color=000000" alt="Kaggle" />
   </a>
   <a href="https://www.youtube.com/@DINESH-p1b3r" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.icons8.com/?size=36&id=19318&format=png&color=000000" alt="YouTube" />
   </a>
   <a href="mailto:personalaccdinesh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width:32px;">
+  </a>
+  <a href="assets/resume_dinesh_s2.pdf" class="btn" download>
+    <img src="https://img.icons8.com/?size=100&id=ZLTrllhOQJs2&format=png&color=000000" 
+         alt="Download Resume" 
+         style="width:32px; height:32px;">
   </a>
 </div>
-<br></br>
+
 
 Hello, I'm **Dinesh** – an AI Enthusiast, Machine Learning Explorer, and Data Science Innovator dedicated to blending technology with impact. 🚀  
 Welcome to my creative hub of ideas, projects, and interactive fun!
@@ -142,6 +157,25 @@ I bet, You Can't Beat My AI!
 
 ⭐️ **Let’s Innovate Together!**  
 Feel free to reach out for collaborations, projects, or a chat about tech and interactive fun.
+
+
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/itzdineshx" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/dinesh873" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.youtube.com/@DINESH-p1b3r" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:personalaccdinesh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ## 📈 Visitor Count
 
