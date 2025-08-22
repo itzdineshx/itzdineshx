@@ -5,6 +5,9 @@
 </div>
 
 <br></br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=itzdineshx&color=blue" alt="Profile views" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dinesh-x/" target="_blank">
@@ -171,12 +174,6 @@ I bet, You Can't Beat My AI!
   <a href="mailto:personalaccdinesh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-## 📈 Visitor Count
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itzdineshx&color=blue" alt="Profile views" />
 </div>
 
 <div align="center">
