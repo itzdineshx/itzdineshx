@@ -4,6 +4,23 @@
   <img src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif" alt="Working Mario" />
 </div>
 
+<br></br>
+<div align="center">
+  <a href="https://linkedin.com/in/itzdineshx" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/dinesh873" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.youtube.com/@DINESH-p1b3r" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:personalaccdinesh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+<br></br>
+
 Hello, I'm **Dinesh** – an AI Enthusiast, Machine Learning Explorer, and Data Science Innovator dedicated to blending technology with impact. 🚀  
 Welcome to my creative hub of ideas, projects, and interactive fun!
 
@@ -125,25 +142,6 @@ I bet, You Can't Beat My AI!
 
 ⭐️ **Let’s Innovate Together!**  
 Feel free to reach out for collaborations, projects, or a chat about tech and interactive fun.
-
-
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/itzdineshx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/dinesh873" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.youtube.com/@DINESH-p1b3r" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:personalaccdinesh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
 
 ## 📈 Visitor Count
 
