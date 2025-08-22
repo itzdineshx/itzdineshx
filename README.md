@@ -156,11 +156,6 @@ I bet, You Can't Beat My AI!
 🌌 Dreaming of AI-powered space exploration  
 💬 Passionate about community, collaboration, and continuous learning
 
-⭐️ **Let’s Innovate Together!**  
-Feel free to reach out for collaborations, projects, or a chat about tech and interactive fun.
-
-
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -191,3 +186,6 @@ Feel free to reach out for collaborations, projects, or a chat about tech and in
     <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
   </picture>
 </div>
+
+⭐️ **Let’s Innovate Together!**  
+Feel free to reach out for collaborations, projects, or a chat about tech and interactive fun.
