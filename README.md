@@ -5,11 +5,19 @@
 </div>
 
 <br></br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itzdineshx&color=blue" alt="Profile views" />
+<div align="center" style="margin: 20px 0;">
+
+  <a href="https://github.com/itzdineshx">
+    <img 
+      src="https://komarev.com/ghpvc/?username=itzdineshx&color=blue&style=for-the-badge&label=Profile+Visitors" 
+      alt="Profile Views"
+      height="38"
+    />
+  </a>
+
 </div>
 
-<div align="center">
+<div align="center" >
   <a href="https://www.linkedin.com/in/dinesh-x/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:32px;">
   </a>
