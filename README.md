@@ -195,3 +195,7 @@ I bet, You Can't Beat My AI!
 
 ⭐️ **Let’s Innovate Together!**  
 Feel free to reach out for collaborations, projects, or a chat about tech and interactive fun.
+
+<div align="center">
+  <img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png" alt="works" />
+</div>
