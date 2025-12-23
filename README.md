@@ -119,15 +119,29 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
     <tr>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=itzdineshx&theme=dark" />
+        </a>
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdineshx&layout=donut&theme=dark" alt="Top Languages" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-eight-68.vercel.app?user=itzdineshx&theme=dark" alt="GitHub Streak" /></a>
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/personalaccdinesh?theme=dark&font=Marcellus&ext=contest&cacheSeconds=86400)](https://leetcode.com/u/personalaccdinesh/)
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
-      </td>
-      <td width="50%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdineshx&layout=compact&theme=radical" alt="Top Languages" />
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
       </td>
     </tr>
   </table>
@@ -139,11 +153,8 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdineshx&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a>
   <br><br>
-  <<div align="center">
-  <img src="https://streak-stats.demolab.com?user=itzdineshx&locale=en&mode=daily&theme=dark&fire=FFA500&hide_border=true&border_radius=5&order=3" height="220" alt="GitHub Streak" />
-  <br><br>
   <!-- GitHub Trophy with gruvbox theme -->
-  <img src="https://github-profile-trophy.vercel.app/?username=itzdineshx&theme=gruvbox&no-frame=true&row=1" alt="GitHub Trophy" />
+  <img src="https://git-profile-trophy-nine.vercel.app/?username=itzdineshx&theme=gruvbox&no-frame=true&row=1" alt="GitHub Trophy" />
 </div>
 
 
@@ -158,22 +169,6 @@ I bet, You Can't Beat My AI!
   <a href="https://itzdineshx.github.io/Cs50ai_tic_tac_toe_AI/" target="_blank">
     <img src="https://img.shields.io/badge/Play-Tic_Tac_Toe-blue?style=for-the-badge" alt="Play Tic Tac Toe with AI" />
   </a>
-</div>
-
-## 🎯 Fun Facts & Beyond
-
-🎮 Pro Free Fire Gamer  
-📚 Sci-fi aficionado – books, movies, and more!  
-🌌 Dreaming of AI-powered space exploration  
-💬 Passionate about community, collaboration, and continuous learning
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?refresh=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
-  </picture>
 </div>
 
 ## 🌐 Connect with Me
@@ -195,7 +190,3 @@ I bet, You Can't Beat My AI!
 
 ⭐️ **Let’s Innovate Together!**  
 Feel free to reach out for collaborations, projects, or a chat about tech and interactive fun.
-
-<div align="center">
-  <img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png" alt="works" />
-</div>
