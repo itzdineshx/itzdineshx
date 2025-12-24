@@ -119,14 +119,12 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
     <tr>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=itzdineshx&theme=dark" />
-        </a>
+        <img src="https://github-readme-stats-two-omega-94.vercel.app/api?username=itzdineshx&theme=dark" />
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
       </td>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdineshx&layout=donut&theme=dark" alt="Top Languages" />
+        <img src="https://github-readme-stats-two-omega-94.vercel.app/api/top-langs/?username=itzdineshx&layout=donut&theme=dark" alt="Top Languages" />
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
       </td>
     </tr>
