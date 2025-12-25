@@ -119,7 +119,7 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
     <tr>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
-        <img src="https://github-readme-stats-two-omega-94.vercel.app/api?username=itzdineshx&theme=dark" />
+        <img src="https://github-readme-stats-two-omega-94.vercel.app/api?username=itzdineshx&theme=darcula" />
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
       </td>
       <td width="50%" align="center">
@@ -131,7 +131,19 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
     <tr>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-eight-68.vercel.app?user=itzdineshx&theme=dark" alt="GitHub Streak" /></a>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzdineshx&theme=darcula" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzdineshx&theme=darcula" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-eight-68.vercel.app?user=itzdineshx&theme=darcula" alt="GitHub Streak" /></a>
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
       </td>
       <td width="50%" align="center">
@@ -142,14 +154,22 @@ Welcome to my creative hub of ideas, projects, and interactive fun!
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
       </td>
     </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzdineshx&theme=darcula" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdineshx&bg_color=242525&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif">
+      </td>
+    </tr>
   </table>
 </div>
 
-<br>
 <div align="center">
-  <a href="https://github.com/itzdineshx">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdineshx&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-  </a>
   <br><br>
   <!-- GitHub Trophy with gruvbox theme -->
   <img src="https://git-profile-trophy-nine.vercel.app/?username=itzdineshx&theme=gruvbox&no-frame=true&row=1" alt="GitHub Trophy" />
@@ -170,20 +190,26 @@ I bet, You Can't Beat My AI!
 </div>
 
 ## 🌐 Connect with Me
-
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://linkedin.com/in/itzdineshx" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://kaggle.com/dinesh873" target="_blank">
+          <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" />
+        </a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.youtube.com/@DINESH-p1b3r" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+        </a>
+    </td>
+</tr>
+</table>
 <div align="center">
-  <a href="https://linkedin.com/in/itzdineshx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/dinesh873" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.youtube.com/@DINESH-p1b3r" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:personalaccdinesh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 ⭐️ **Let’s Innovate Together!**  
