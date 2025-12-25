@@ -1,10 +1,29 @@
-# 🌟 Welcome to Dinesh's World of Innovation! 🌟
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=feb64d&height=90&section=header"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif" alt="Working Mario" />
+<div id="header" align="center">
+  
+# 🌟 Welcome to Dinesh's World of Innovation! 🌟
+<br><br>
+
 </div>
 
-<br></br>
+<div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
+</div>
+
+### 💫 About Me
+
+- 💼 I'm a AI/Ml Engineer and I’m currently working on AI Related Technologies
+- 🎓 Education: B.Tech in AI & Data Science, DMI College of Engineering 
+- 💡 Expertise: Data Science, Machine Learning, Deep Learning, Advanced AI Techniques  
+- 🤝 Collaborations: Open to projects, internships, and open-source contributions  
+- 👯 I’m looking to collaborate with open source enthusiasts
+- 🥅 2026 Goals: Learn Full stack, AI And strengthen DSA
+
+<br>
+</div>
+
+</br>
 <div align="center" style="margin: 20px 0;">
 
   <a href="https://github.com/itzdineshx">
@@ -46,21 +65,6 @@
   </a>
 </div>
 <br></br>
-
-
-Hello, I'm **Dinesh** – an AI Enthusiast, Machine Learning Explorer, and Data Science Innovator dedicated to blending technology with impact. 🚀  
-Welcome to my creative hub of ideas, projects, and interactive fun!
-
-<!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
-
-## 💡 About Me
-
-- **🎓 Education:** B.Tech in AI & Data Science, DMI College of Engineering | **GPA:** 8.5  
-- **💡 Expertise:** Data Analysis, Data Science, Machine Learning, Deep Learning, Advanced AI Techniques  
-- **🤝 Collaborations:** Open to projects, internships, and open-source contributions  
-- **🎯 Focus Areas:** AI in Healthcare, Education, Gaming, and more  
-- **🎮 Hobbies:** Gaming, sci-fi explorations, and creative coding
 
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
@@ -214,3 +218,5 @@ I bet, You Can't Beat My AI!
 
 ⭐️ **Let’s Innovate Together!**  
 Feel free to reach out for collaborations, projects, or a chat about tech and interactive fun.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=feb64d&height=80&section=footer"/>
