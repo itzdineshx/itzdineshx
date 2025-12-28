@@ -158,18 +158,8 @@
   </table>
 </div>
 
-## 📊 GitHub Stats & Achievements
-
 > This section reflects **learning consistency, experimentation, and progress over time**.  
 > These metrics help visualize activity, focus areas, and long-term growth.
-
-<!-- YOUR ENTIRE STATS TABLE REMAINS EXACTLY AS IS -->
-
-<div align="center">
-  <table>
-    <!-- (unchanged content preserved fully) -->
-  </table>
-</div>
 
 <div align="center">
   <br><br>
