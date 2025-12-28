@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=feb64d&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb147&height=90&section=header"/>
 
 <div id="header" align="center">
   
@@ -205,4 +205,4 @@ A classic game implemented using intelligent decision-making logic.
 ⭐ **Let’s Innovate Together!**  
 Feel free to reach out for collaborations, projects, or a chat about tech and interactive fun.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=feb64d&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb147&height=80&section=footer"/>
