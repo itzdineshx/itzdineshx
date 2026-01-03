@@ -143,7 +143,7 @@
       </td>
       <td width="50%" align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/personalaccdinesh?theme=dark&font=Marcellus&ext=contest&cacheSeconds=86400)](https://leetcode.com/u/personalaccdinesh/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dinesh-xo?theme=dark&font=Marcellus&ext=contest&cacheSeconds=86400)](https://leetcode.com/u/dinesh-xo/)
 
   </td>
     </tr>
