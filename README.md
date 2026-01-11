@@ -131,10 +131,10 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzdineshx&theme=darcula" />
+        <img src="https://git-stats-theta.vercel.app/api/cards/stats?username=itzdineshx&theme=darcula" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzdineshx&theme=darcula" />
+        <img src="https://git-stats-theta.vercel.app/api/cards/productive-time?username=itzdineshx&theme=darcula" />
       </td>
     </tr>
     <tr>
@@ -149,7 +149,7 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzdineshx&theme=darcula" />
+        <img src="https://git-stats-theta.vercel.app/api/cards/profile-details?username=itzdineshx&theme=darcula" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdineshx&bg_color=242525&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
